@@ -1,0 +1,9 @@
+--- # main.yaml
+# write a basic sample yaml content
+- hosts: localhost
+  tasks:
+    - name: "Create a file"
+      file:
+        path: /tmp/test.txt
+        state: touch
+
