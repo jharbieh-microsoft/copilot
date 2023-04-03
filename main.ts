@@ -5,4 +5,7 @@ function helloWorld(name: string) {
 
  helloWorld('World');
 
+// run the hello world example
+// tsc main.ts
+
 // Path: tsconfig.json
