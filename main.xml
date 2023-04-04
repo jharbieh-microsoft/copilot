@@ -1,0 +1,9 @@
+<!-- create a saml auth idp -->
+<AuthnRequest xmlns="urn:oasis:names:tc:SAML:2.0:protocol" ID="id-1234567890" Version="2.0" IssueInstant="2014-01-01T00:00:00Z" Destination="https://idp.example.com/saml2/idp/SSOService.php" ProtocolBinding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" AssertionConsumerServiceURL="https://sp.example.com/saml2/acs/">
+  <Issuer xmlns="urn:oasis:names:tc:SAML:2.0:assertion">https://sp.example.com/saml2/metadata/</Issuer>
+  <NameIDPolicy xmlns="urn:oasis:names:tc:SAML:2.0:protocol" Format="urn:oasis:names:tc:SAML:2.0:nameid-format:transient" AllowCreate="true"/>
+</AuthnRequest>
+
+<!-- Path: main.xml -->
+
+
