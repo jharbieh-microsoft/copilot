@@ -6,5 +6,5 @@
 ## jharbieh
 
 ## shop
-[web]("https://shop.webeccentric.com")
+["web"](https://shop.webeccentric.com)
 
