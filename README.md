@@ -5,6 +5,9 @@
 
 ## jharbieh
 
+## Copilot API
+[api](https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex)
+
 ## shop
 [web](https://shop.webeccentric.com)
 

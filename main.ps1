@@ -25,4 +25,12 @@ $cat = ""
 $cal = Get-MailboxCalendarEvent -CalendarViewRangeStart $((Get-Date).AddDays(-30)) -CalendarViewRangeEnd $((Get-Date).AddDays(30)) -ResultSize Unlimited -Subject $subject -Category $cat
 $cal | Format-Table Subject, Start, End, Category
 
+# create a new calendar event
+$subject = "";
+$cat = "";
+$cal = New-MailboxCalendarEvent -Subject $subject -Category $cat -Start $((Get-Date).AddDays(1)) -End $((Get-Date).AddDays(1).AddHours(1)) -Body "This is a test event" -Location "My Office" -Attendees "";
+$cal | Format-Table Subject, Start, End, Category
+
+
+
 

@@ -1,0 +1,12 @@
+<!-- create a form with an input field and a button -->
+<Window x:Class="main"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="main" Height="300" Width="300">
+    <Grid>
+        <TextBox x:Name="input" />
+        <Button x:Name="button" Content="Click" Click="button_Click" />
+    </Grid>
+</Window>
+
+<!-- Path: main.xaml.cs -->
