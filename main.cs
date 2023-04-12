@@ -11,6 +11,48 @@ namespace HelloWorld
         }
     }
 
+    // Conference class
+    class Conference
+    {
+        public string Name { get; set; }
+        public string Location { get; set; }
+        public string Date { get; set; }
+
+        public Speakers<Speaker> Speakers { get; set; }
+
+        public Conference(string name, string location, string date)
+        {
+            Name = name;
+            Location = location;
+            Date = date;
+        }
+
+        public void PrintConferenceDetails()
+        {
+            Console.WriteLine("Conference Name: {0}", Name);
+            Console.WriteLine("Conference Location: {0}", Location);
+            Console.WriteLine("Conference Date: {0}", Date);
+        }
+
+        // Method to add a speaker to the conference
+        public void AddSpeaker(Speaker speaker)
+        {
+            // Add speaker to the list of speakers
+            Speakers.Add(speaker);
+
+            Console.WriteLine("Speaker {0} added to conference {1}", speaker.Name, Name);
+        }
+
+        // Method to remove a speaker from the conference
+        public void RemoveSpeaker(Speaker speaker)
+        {
+            // Remove speaker from the list of speakers
+            Speakers.Remove(speaker);
+
+            Console.WriteLine("Speaker {0} removed from conference {1}", speaker.Name, Name);
+        }
+    }
+
     class Speaker
     {
 

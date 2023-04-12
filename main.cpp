@@ -7,11 +7,14 @@
 
 using namespace std;
 
-int main()
-{
-    ofstream myfile;
-    myfile.open("example.txt");
-    myfile << "Hello World";
+int main() {
+    string str = "Hello World";
+    ofstream myfile("example.txt");
+    if (!myfile.is_open()) {
+        cerr << "Error opening file" << endl;
+        return 1;
+    }
+    myfile << str << endl;
     myfile.close();
     return 0;
 }
