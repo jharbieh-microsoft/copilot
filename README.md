@@ -3,7 +3,25 @@
 
 ## Introduction to Copilot by Copilot
 
-Copilot is a new AI-powered coding assistant that helps you write code faster and with fewer bugs. Copilot is available in Visual Studio Code and Visual Studio 2022.
+Copilot is a new AI-powered coding assistant that helps you write code faster and with fewer bugs. 
+
+You can receive suggestions from GitHub Copilot either by starting to write the code you want to use, or by writing a natural language comment describing what you want the code to do.
+
+Trained on billions of lines of public code, GitHub Copilot puts the knowledge customers need at their fingertips, saving time and maintaining focus.
+
+Although it supports most programming languages, it currently works the best with:
+* Python
+* JavaScript
+* TypeScript
+* Ruby
+* Go
+
+## Value Prop of Github Copilot
+GitHub Copilot helps developers code faster, focus on solving bigger problems. 
+
+- 96% faster with repetitive tasks
+- 88% feel more productive
+- 74% focus on more satisfying work
 
 ## Copilot Supported IDEs
 Copilot supports the following IDEs:
@@ -24,7 +42,10 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 ## Links and Resources
 * [Get Started](https://docs.github.com/en/copilot/getting-started-with-github-copilot)
 * [M365 and Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
-* [Licensing](https://docs.github.com/en/billing/managing-billing-for-github-copilot/about-billing-for-github-copilot)
+* [Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview)
+* [Azure OpenAI Service Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/)
+* [Azure OpenAI Studio](https://oai.azure.com/)
+* [GitHub Copilot Licensing](https://docs.github.com/en/billing/managing-billing-for-github-copilot/about-billing-for-github-copilot)
 * [Copilot for Individuals](https://docs.github.com/en/copilot/overview-of-github-copilot/about-github-copilot-for-individuals)
 * [Copilot for Business](https://docs.github.com/en/copilot/overview-of-github-copilot/about-github-copilot-for-business)
 
