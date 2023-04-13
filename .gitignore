@@ -1,5 +1,6 @@
 # ignore the following file extensions
 .env
+.exe
 
 # ignore the following directories
 
