@@ -65,6 +65,7 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 * [GitHub Copilot Licensing](https://docs.github.com/en/billing/managing-billing-for-github-copilot/about-billing-for-github-copilot)
 * [Copilot for Individuals](https://docs.github.com/en/copilot/overview-of-github-copilot/about-github-copilot-for-individuals)
 * [Copilot for Business](https://docs.github.com/en/copilot/overview-of-github-copilot/about-github-copilot-for-business)
+* [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 
 ## Community Demos
 * [Using Copilot Chat to fix vulnerability discovered by GitHub Advanced Security](https://www.youtube.com/watch?v=ljVTvV9MqFE)
@@ -73,8 +74,20 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 * [Copilot: code faster with contextual suggestions](https://youtu.be/k0uVz3OmJGw)
 * [Fun with copilot](https://www.youtube.com/playlist?list=PL2AONzGTULQJ_GaR8nwLil6pAoOfTzd1J)
 
-## Articles on the subject
-* [Ars Technica, DELPHINE STRAUSS, FINANCIAL TIMES - 3/28/2023, 8:30 AM. Accessed 4/13/2023. "Generative AI set to affect 300 million jobs across major economies"](members-5342839@toastmastersclubs.org)
+## Articles
+* [Ars Technica. DELPHINE STRAUSS, FINANCIAL TIMES - 3/28/2023, 8:30 AM. Accessed 4/13/2023. "Generative AI set to affect 300 million jobs across major economies"](members-5342839@toastmastersclubs.org)
+* [Gizmodo. Accessed 4/14/2023 "Oops: Samsung Employees Leaked Confidential Data to ChatGPT"](https://gizmodo.com/chatgpt-ai-samsung-employees-leak-data-1850307376)
+* [GitHub Blog. Accessed on 4/14/2023. "Research: quantifying GitHub Copilot’s impact on developer productivity and happiness"](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
+* [ShiSh S. Accessed on 4/14/2023. "Augmenting In-House Innovation with Startups: Generative AI"](https://www.linkedin.com/pulse/augmenting-in-house-innovation-startups-generative-ai-shish-shridhar/)
+
+## Executives
+* [Wall Street Journal. Accessed on 4/14/2023. "Satya Nadella: Microsoft's Products Will Soon Access Open AI Tools Like ChatGPT | WSJ"](https://youtu.be/UNbyT7wPwk4)
+* [ABC News. Accessed on 4/14/2023. "OpenAI CEO, CTO on risks and how AI will reshape society"](https://youtu.be/540vzMlf-54)
+* [Greylock. Accessed on 4/14/2023. "OpenAI CEO Sam Altman | AI for the Next Era"](https://youtu.be/WHoWGNQRXb0)
+* [Amanpour and Company. Accessed on 4/14/2023. "Fmr. Google CEO Eric Schmidt on the Consequences of an A.I. Revolution"](https://youtu.be/Sg3EchbCcA0)
+* [Microsoft. Accessed on 4/14/2023. "Bill Gates on AI and the rapidly evolving future of computing"](https://youtu.be/bHb_eG46v2c)
+* [Tesla. Accessed on 4/14/2023. "OpenAI GPT-4: The Most Advanced AI Yet - Live with Tesla & Elon Musk"](https://youtu.be/al8Jc0hIAe4)
+* [SXSW. Accessed on 4/14/2023. "OpenAI Co-founder Greg Brockman on ChatGPT, DALL·E and the Impact of Generative AI | SXSW 2023"](https://youtu.be/YtJEfTTD_Y4)
 
 # Hello World Copilot Examples Usage
 ## main.cs
