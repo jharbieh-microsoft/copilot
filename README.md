@@ -1,5 +1,6 @@
 <!-- write Hello World in bolded text -->
-# Hello World Copilot Examples
+# README
+This repo has one goal in mind. Document, practice and show examples of how to use Copilot. Along the way, authoritative content on the topic of Generative AI will be represented here. 
 
 ## A bit of History
 AI > ML > DL > GI
@@ -10,7 +11,7 @@ AI > ML > DL > GI
 * 2021 Generative AI (GI) - a new class of AI that can generate new content, such as text, images, and code
 
 ## OpenAI + Microsoft Offerings
-* GPT-3 (generate and understand text)
+* GPT (generate and understand text)
 * Codex (generate and understand code)
 * Dall-E (generate images from text prompts)
 
@@ -52,9 +53,6 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 3. You can get for Free if you are a: verified Student, Teacher, Maintainer of a popular open source project
 
 ## Behind the Scenes
-* Prompt Design
-* Prompt Libraries
-
 - [Prompt Engine](https://github.com/microsoft/prompt-engine) - The Prompt Engine is a library for building natural language prompts for code generation. It is used by Copilot to generate prompts for code completion.
 - [Prompt Engineering](https://microsoft.github.io/prompt-engineering/) - The Prompt Engineering website is a collection of resources for building natural language prompts for code generation. It is used by Copilot to generate prompts for code completion.
 
@@ -74,6 +72,9 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 * [Copilot : Build a new features in few minutes](https://youtu.be/-JBHy5w94Us)
 * [Copilot: code faster with contextual suggestions](https://youtu.be/k0uVz3OmJGw)
 * [Fun with copilot](https://www.youtube.com/playlist?list=PL2AONzGTULQJ_GaR8nwLil6pAoOfTzd1J)
+
+## Articles on the subject
+* [Ars Technica, DELPHINE STRAUSS, FINANCIAL TIMES - 3/28/2023, 8:30 AM. Accessed 4/13/2023. "Generative AI set to affect 300 million jobs across major economies"](members-5342839@toastmastersclubs.org)
 
 # Hello World Copilot Examples Usage
 ## main.cs
