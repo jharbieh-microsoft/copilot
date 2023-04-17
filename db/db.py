@@ -3,6 +3,9 @@
 
 import sqlite3
 
+# add a user to the user table
+
+
 # delete all users from the user table
 def delete_all_users():
     try:
@@ -51,7 +54,5 @@ def get_all_users():
 
 # initialize this script and call the get_all_users function
 if __name__ == "__main__":
-    print(get_all_users())
-    print(delete_all_users())
     print(get_all_users())
 
