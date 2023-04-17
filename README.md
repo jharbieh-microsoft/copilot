@@ -1,6 +1,6 @@
 <!-- write Hello World in bolded text -->
 # README
-This repo has one goal in mind. Document, practice and show examples of how to use Copilot. Along the way, authoritative content on the topic of Generative AI will be represented here. 
+This repo is put together to help me document, practice and show examples of how to use Copilot. Along the way, if I find authoritative content on the topic of Generative AI, I will list them here. All content is credited to its respective authors. 
 
 ## A bit of History
 AI > ML > DL > GI
@@ -22,7 +22,7 @@ You can receive suggestions from GitHub Copilot either by starting to write the 
 
 Trained on billions of lines of public code, GitHub Copilot puts the knowledge customers need at their fingertips, saving time and maintaining focus.
 
-Although it supports most programming languages, it currently works the best with:
+Although it supports most programming languages, it currently works the best with
 * Python
 * JavaScript
 * TypeScript
@@ -35,6 +35,11 @@ GitHub Copilot helps developers code faster, focus on solving bigger problems.
 - 96% faster with repetitive tasks
 - 88% feel more productive
 - 74% focus on more satisfying work
+
+Use Cases
+* Find new solutions - Cycle through suggestions and discover a different path.
+* Solve big problems - Spend less time on boilerplate and repetitive code patterns and more time on building great software.
+* Explore new frameworks - Navigate unfamiliar languages, frameworks, and libraries with ease
 
 ## Copilot Supported IDEs
 Copilot supports the following IDEs:
@@ -73,6 +78,9 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 * [Copilot : Build a new features in few minutes](https://youtu.be/-JBHy5w94Us)
 * [Copilot: code faster with contextual suggestions](https://youtu.be/k0uVz3OmJGw)
 * [Fun with copilot](https://www.youtube.com/playlist?list=PL2AONzGTULQJ_GaR8nwLil6pAoOfTzd1J)
+
+## GitHub Demos
+* [GitHub Copilot: your AI pair programmer - GitHub Checkout](https://www.youtube.com/watch?v=St2CMvK4hK0)
 
 ## Articles
 * [Ars Technica. DELPHINE STRAUSS, FINANCIAL TIMES - 3/28/2023, 8:30 AM. Accessed 4/13/2023. "Generative AI set to affect 300 million jobs across major economies"](members-5342839@toastmastersclubs.org)
