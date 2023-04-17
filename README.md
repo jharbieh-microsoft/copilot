@@ -2,7 +2,7 @@
 # README
 This repo is put together to help me document, practice and show examples of how to use Copilot. Along the way, if I find authoritative content on the topic of Generative AI, I will list them here. All content is credited to its respective authors. 
 
-Now, remember folks! "Copilot still needs a Pilot ... except for when you have AI managing AI"
+Now, remember folks! "Copilot still needs a Pilot" (C) 2023
 
 ## A bit of History
 AI > ML > DL > GI
@@ -38,10 +38,27 @@ GitHub Copilot helps developers code faster, focus on solving bigger problems.
 - 88% feel more productive
 - 74% focus on more satisfying work
 
-Use Cases
+### Use Cases
 * Find new solutions - Cycle through suggestions and discover a different path.
 * Solve big problems - Spend less time on boilerplate and repetitive code patterns and more time on building great software.
 * Explore new frameworks - Navigate unfamiliar languages, frameworks, and libraries with ease
+
+### I as a Developer want to... so that... 
+1. I want to write code faster so that I can focus on solving bigger problems
+2. I want to write code with fewer bugs so that I can focus on solving bigger problems
+3. I want to write code with fewer errors so that I can focus on solving bigger problems
+4. ... LOL. The above was written by my Copilot. I am not sure if I should be happy or sad.
+
+### As a Developer
+1. You are asked to create a new App
+2. You are asked to create a new API
+3. You are asked to modify an existing application
+4. You are asked to fix a bug
+
+Your next steps might be to gather requriements, work on a high level design, produce a POC or MVP. And when you start to write code, you may copy/paste, you may search and query for best results and code samples, etc. Copilot can help you do it all in one place. 
+
+### The Formula
+Let's say the scenario is: "I want to build a web app that connects to a sql database and has an todo item api and then I want to deploy this app to Azure". Imagine now, with [Copilot, Copilot Labs, Copilot-X, Copilot CLI] *or which ever combination or product term we may end up with* I can do all of that from one IDE. 
 
 ## Copilot Supported IDEs
 Copilot supports the following IDEs:
@@ -57,14 +74,22 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 ## Who can get GitHub Copilot
 1. GitHub Copilot can be managed through personal accounts with GitHub Copilot for Individuals
 2. Or through organization accounts with GitHub Copilot for Business
-3. You can get for Free if you are a: verified Student, Teacher, Maintainer of a popular open source project
+3. You can get it for Free if you are a verified Student, Teacher, or Maintainer of a popular open source project
+
+## High level steps to get started
+1. Sign up with a GitHub account
+2. Purchase a Copilot license
+3. Active on a GitHub repo
+4. Install the extensions (Copilot and Copilot Labs)
+5. Sign up for Copilot-X
+6. Create your first code file and enter a comment. Use natural language
 
 ## Behind the Scenes
 - [Prompt Engine](https://github.com/microsoft/prompt-engine) - The Prompt Engine is a library for building natural language prompts for code generation. It is used by Copilot to generate prompts for code completion.
 - [Prompt Engineering](https://microsoft.github.io/prompt-engineering/) - The Prompt Engineering website is a collection of resources for building natural language prompts for code generation. It is used by Copilot to generate prompts for code completion.
 
-## Applications as in tooling or others built ontop of the tech
-[AI managing AI? AutoGPT](https://autogpt.net/what-is-auto-gpt-and-why-do-we-care/)
+## Example Applications built ontop of the tech
+[AutoGPT](https://autogpt.net/what-is-auto-gpt-and-why-do-we-care/)
 
 ## Public Announcements
 [GitHub Copilot announcement in June 2021](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/)
@@ -75,7 +100,6 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 ## Links and Resources
 * [Get Started](https://docs.github.com/en/copilot/getting-started-with-github-copilot)
-* [M365 and Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
 * [Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview)
 * [Azure OpenAI Service Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/)
 * [Azure OpenAI Studio](https://oai.azure.com/)
