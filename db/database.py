@@ -8,13 +8,15 @@ def database_init():
         conn = sqlite3.connect("database.db")
 
         # create a user table with the following columns: id, name, age, email
-        conn.execute("CREATE TABLE IF NOT EXISTS user (id INTEGER PRIMARY KEY, name TEXT, age INTEGER, email TEXT)")
+        conn.execute("CREATE TABLE IF NOT EXISTS user (id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT, age INTEGER, email TEXT)")
 
-        # insert three new users into the user table
-        conn.execute("INSERT INTO user (name, age, email) VALUES ('John', 25, 'john@email.me')")
-        conn.execute("INSERT INTO user (name, age, email) VALUES ('Jane', 30, 'jane@email.her')")
-        conn.execute("INSERT INTO user (name, age, email) VALUES ('Jack', 35, 'jack@email.him')")
+        # create a work table with the following columns: id, name, description
+        conn.execute("CREATE TABLE IF NOT EXISTS work (id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT, description TEXT)")
 
+        # create a user_work table with the following columns: id, user_id, work_id
+        conn.execute("CREATE TABLE IF NOT EXISTS user_work (id INTEGER PRIMARY KEY AUTOINCREMENT, user_id INTEGER, work_id INTEGER)")    
+
+        # commit the changes to the database
         conn.commit()
 
         # close the database connection
