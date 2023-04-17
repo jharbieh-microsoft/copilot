@@ -12,9 +12,8 @@ int main()
 }
 
 //  create a function that returns a collection of people first names
-#include <stdio.h>
 
-int main()
+int func()
 {
     char *names[] = {"John", "Paul", "George", "Ringo"};
     for (int i = 0; i < 4; i++)
