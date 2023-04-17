@@ -2,6 +2,8 @@
 # README
 This repo is put together to help me document, practice and show examples of how to use Copilot. Along the way, if I find authoritative content on the topic of Generative AI, I will list them here. All content is credited to its respective authors. 
 
+Now, remember folks! "Copilot still needs a Pilot ... except for when you have AI managing AI"
+
 ## A bit of History
 AI > ML > DL > GI
 
