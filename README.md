@@ -150,16 +150,20 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 * [SXSW. Accessed on 4/14/2023. "OpenAI Co-founder Greg Brockman on ChatGPT, DALL·E and the Impact of Generative AI | SXSW 2023"](https://youtu.be/YtJEfTTD_Y4)
 
 # Hello World Copilot Examples Usage
-## main.cs
 
-### Compile
+### Compiling a .cs file
 ```
 ."C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Current\Bin\Roslyn\csc.exe" .\main.cs
 ```
 
-### Run
+### Running an executable
 ```
 .\main.exe  
  ```
+
+# Lessons Learned
+1. The Coldfusion language may not supported by Copilot. It did take me some time to get it to work with it. It did finally do write me some code.
+2. I'm having a bit of a challenge to write VB. VBScript was straight forward. 
+
 
 

@@ -4,7 +4,24 @@
 import sqlite3
 
 # add a user to the user table
+def add_user(name, email, password):
+    try:
+        conn = sqlite3.connect("database.db")
 
+        cur = conn.cursor()
+        cur.execute("INSERT INTO user (name, email, password) VALUES (?, ?, ?)", (name, email, password))
+
+        conn.commit()
+        conn.close()
+
+    except sqlite3.Error as e:
+        print("Database Error: " + str(e))
+    except Exception as e:
+        print("General Error: " + str(e))
+    else:
+        print("Connection Successfully Established")
+        conn.close()
+        print("Connection Closed")
 
 # delete all users from the user table
 def delete_all_users():
