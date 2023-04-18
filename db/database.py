@@ -1,3 +1,9 @@
+# how do I install sqlite3 in python 3.7.3 on windows 10?
+# https://stackoverflow.com/questions/58530503/how-do-i-install-sqlite3-in-python-3-7-3-on-windows-10
+# https://www.sqlite.org/download.html
+
+
+
 # create a database connection to a SQLite database file named "database.db" in the same directory as this file
 import sqlite3
 
