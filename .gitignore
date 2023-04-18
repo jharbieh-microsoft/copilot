@@ -4,6 +4,11 @@
 *.db
 
 # ignore the following directories
+node_modules/
+dist/
+build/
+coverage/
+tmp/
 
 # ignore the following files
 
