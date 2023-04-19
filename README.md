@@ -142,6 +142,8 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 * ["Github Copilot for Swift iOS Developers" by Rudolf Farkas May 22, 2022. Accessed on 4/19/2023](https://medium.com/@rudi.farkas/github-copilot-for-swift-ios-developers-85b3369696d0)
 
+* ["Research: How GitHub Copilot helps improve developer productivity" by Albert Ziegler July 14, 2022. Accessed on 4/19/2023](https://github.blog/2022-07-14-research-how-github-copilot-helps-improve-developer-productivity/)
+
 ## Executives
 * ["Satya Nadella: Microsoft's Products Will Soon Access Open AI Tools Like ChatGPT | WSJ". Wall Street Journal. Accessed on 4/14/2023.](https://youtu.be/UNbyT7wPwk4)
 
