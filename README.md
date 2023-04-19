@@ -67,10 +67,11 @@ Let's say the scenario is: "I want to build a web app that connects to a sql dat
 ## Copilot Supported IDEs
 Copilot supports the following IDEs:
 
-* Visual Studio 2022
+* Visual Studio
 * Visual Studio Code
 * JetBrains
 * NeoVim
+* GitHub Codespaces
 
 ## How does it work?
 GitHub Copilot is powered by OpenAI Codex from https://openai.com/
@@ -96,11 +97,11 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 [AutoGPT](https://autogpt.net/what-is-auto-gpt-and-why-do-we-care/)
 
 ## Public Announcements
-[GitHub Copilot announcement in June 2021](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/)
+* [GitHub Copilot announcement in June 2021](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/)
 
-[M365 Copilot announcement in March 2023](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
+* [M365 Copilot announcement in March 2023](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
 
-[D365 Copilot announcement in March 2023](https://blogs.microsoft.com/blog/2023/03/06/introducing-microsoft-dynamics-365-copilot/)
+* [D365 Copilot announcement in March 2023](https://blogs.microsoft.com/blog/2023/03/06/introducing-microsoft-dynamics-365-copilot/)
 
 ## Links and Resources
 * [Get Started](https://docs.github.com/en/copilot/getting-started-with-github-copilot)
@@ -129,32 +130,32 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 * ["GitHub’s Copilot goes beyond code completion, adds a chat mode and more" by Frederic Lardinois, March 22, 2023. Accessed on 4/17/2023](https://techcrunch.com/2023/03/22/githubs-copilot-goes-beyond-code-completion-adds-a-chat-mode-and-more/)
 
-* [Ars Technica. DELPHINE STRAUSS, FINANCIAL TIMES - 3/28/2023, 8:30 AM. Accessed 4/13/2023. "Generative AI set to affect 300 million jobs across major economies"](members-5342839@toastmastersclubs.org)
+* ["Generative AI set to affect 300 million jobs across major economies". Ars Technica. DELPHINE STRAUSS, FINANCIAL TIMES - 3/28/2023, 8:30 AM. Accessed 4/13/2023. ](members-5342839@toastmastersclubs.org)
 
-* [Gizmodo. Accessed 4/14/2023 "Oops: Samsung Employees Leaked Confidential Data to ChatGPT"](https://gizmodo.com/chatgpt-ai-samsung-employees-leak-data-1850307376)
+* ["Oops: Samsung Employees Leaked Confidential Data to ChatGPT". Gizmodo. Accessed 4/14/2023.](https://gizmodo.com/chatgpt-ai-samsung-employees-leak-data-1850307376)
 
-* [GitHub Blog. Accessed on 4/14/2023. "Research: quantifying GitHub Copilot’s impact on developer productivity and happiness"](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
+* ["Research: quantifying GitHub Copilot’s impact on developer productivity and happiness". GitHub Blog. Accessed on 4/14/2023.](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
 
-* [ShiSh S. Accessed on 4/14/2023. "Augmenting In-House Innovation with Startups: Generative AI"](https://www.linkedin.com/pulse/augmenting-in-house-innovation-startups-generative-ai-shish-shridhar/)
+* ["Augmenting In-House Innovation with Startups: Generative AI". ShiSh S. Accessed on 4/14/2023.](https://www.linkedin.com/pulse/augmenting-in-house-innovation-startups-generative-ai-shish-shridhar/)
 
 * ["GitHub Copilot X: The AI-powered developer experience". Accessed on 4/17/2023](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
 
 * ["Github Copilot for Swift iOS Developers" by Rudolf Farkas May 22, 2022. Accessed on 4/19/2023](https://medium.com/@rudi.farkas/github-copilot-for-swift-ios-developers-85b3369696d0)
 
 ## Executives
-* [Wall Street Journal. Accessed on 4/14/2023. "Satya Nadella: Microsoft's Products Will Soon Access Open AI Tools Like ChatGPT | WSJ"](https://youtu.be/UNbyT7wPwk4)
+* ["Satya Nadella: Microsoft's Products Will Soon Access Open AI Tools Like ChatGPT | WSJ". Wall Street Journal. Accessed on 4/14/2023.](https://youtu.be/UNbyT7wPwk4)
 
-* [ABC News. Accessed on 4/14/2023. "OpenAI CEO, CTO on risks and how AI will reshape society"](https://youtu.be/540vzMlf-54)
+* ["OpenAI CEO, CTO on risks and how AI will reshape society". ABC News. Accessed on 4/14/2023.](https://youtu.be/540vzMlf-54)
 
-* [Greylock. Accessed on 4/14/2023. "OpenAI CEO Sam Altman | AI for the Next Era"](https://youtu.be/WHoWGNQRXb0)
+* ["OpenAI CEO Sam Altman | AI for the Next Era". Greylock. Accessed on 4/14/2023.](https://youtu.be/WHoWGNQRXb0)
 
-* [Amanpour and Company. Accessed on 4/14/2023. "Fmr. Google CEO Eric Schmidt on the Consequences of an A.I. Revolution"](https://youtu.be/Sg3EchbCcA0)
+* ["Fmr. Google CEO Eric Schmidt on the Consequences of an A.I. Revolution". Amanpour and Company. Accessed on 4/14/2023.](https://youtu.be/Sg3EchbCcA0)
 
-* [Microsoft. Accessed on 4/14/2023. "Bill Gates on AI and the rapidly evolving future of computing"](https://youtu.be/bHb_eG46v2c)
+* ["Bill Gates on AI and the rapidly evolving future of computing". Microsoft. Accessed on 4/14/2023.](https://youtu.be/bHb_eG46v2c)
 
-* [Tesla. Accessed on 4/14/2023. "OpenAI GPT-4: The Most Advanced AI Yet - Live with Tesla & Elon Musk"](https://youtu.be/al8Jc0hIAe4)
+* ["OpenAI GPT-4: The Most Advanced AI Yet - Live with Tesla & Elon Musk". Tesla. Accessed on 4/14/2023.](https://youtu.be/al8Jc0hIAe4)
 
-* [SXSW. Accessed on 4/14/2023. "OpenAI Co-founder Greg Brockman on ChatGPT, DALL·E and the Impact of Generative AI | SXSW 2023"](https://youtu.be/YtJEfTTD_Y4)
+* ["OpenAI Co-founder Greg Brockman on ChatGPT, DALL·E and the Impact of Generative AI | SXSW 2023". SXSW. Accessed on 4/14/2023.](https://youtu.be/YtJEfTTD_Y4)
 
 # Hello World Copilot Examples Usage
 
