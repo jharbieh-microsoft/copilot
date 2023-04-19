@@ -60,6 +60,10 @@ Your next steps might be to gather requriements, work on a high level design, pr
 ### The Formula
 Let's say the scenario is: "I want to build a web app that connects to a sql database and has an todo item api and then I want to deploy this app to Azure". Imagine now, with [Copilot, Copilot Labs, Copilot-X, Copilot CLI] *or which ever combination or product term we may end up with* I can do all of that from one IDE. 
 
+1. Context. Context. Context.
+2. Well written natural language comments.
+3. Multiple tabs open in the IDE with code files related to the work you are doing.
+
 ## Copilot Supported IDEs
 Copilot supports the following IDEs:
 
@@ -133,6 +137,8 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 * [ShiSh S. Accessed on 4/14/2023. "Augmenting In-House Innovation with Startups: Generative AI"](https://www.linkedin.com/pulse/augmenting-in-house-innovation-startups-generative-ai-shish-shridhar/)
 
 * ["GitHub Copilot X: The AI-powered developer experience". Accessed on 4/17/2023](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
+
+* ["Github Copilot for Swift iOS Developers" by Rudolf Farkas May 22, 2022. Accessed on 4/19/2023](https://medium.com/@rudi.farkas/github-copilot-for-swift-ios-developers-85b3369696d0)
 
 ## Executives
 * [Wall Street Journal. Accessed on 4/14/2023. "Satya Nadella: Microsoft's Products Will Soon Access Open AI Tools Like ChatGPT | WSJ"](https://youtu.be/UNbyT7wPwk4)
