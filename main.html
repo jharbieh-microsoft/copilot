@@ -1,15 +1,28 @@
 <!-- create a hello world html page -->
 
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>My first web page</title>
+<script type="text/javascript" language="javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/vbscript" language="VBScript">
+<!--
+Function getFormData()
+    Dim form
+    Set form = document.forms(0)
+    Dim formData
+    formData = "firstname=" & form.firstname.value & "&lastname=" & form.lastname.value & "&email=" & form.email.value
+    getFormData = formData
+End Function
+-->
+</script>
+
 </head>
 <body>
 <h1>Hello World</h1>
 
 <!-- generate an html form that I can use to submit a first name, last name, and email address -->
-<form action="main.html" method="post">
+<form action="main.html" name="form" id="form" method="post">
 First name: <input type="text" name="firstname"><br>
 Last name: <input type="text" name="lastname"><br>
 Email: <input type="text" name="email"><br>

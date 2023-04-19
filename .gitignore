@@ -4,6 +4,17 @@
 *.db
 
 # ignore the following directories
+node_modules/
+dist/
+build/
+coverage/
+tmp/
 
 # ignore the following files
+package-lock.json
+yarn.lock
+yarn-error.log
+npm-debug.log
+
+# ignore the following files in the root directory
 
