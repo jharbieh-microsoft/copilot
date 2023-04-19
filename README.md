@@ -81,6 +81,7 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 ## GitHub Demos
 * [GitHub Copilot: your AI pair programmer - GitHub Checkout](https://www.youtube.com/watch?v=St2CMvK4hK0)
+* [Chat](https://youtu.be/3surPGP7_4o)
 
 ## Articles
 * [Ars Technica. DELPHINE STRAUSS, FINANCIAL TIMES - 3/28/2023, 8:30 AM. Accessed 4/13/2023. "Generative AI set to affect 300 million jobs across major economies"](members-5342839@toastmastersclubs.org)
