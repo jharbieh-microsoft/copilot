@@ -118,6 +118,7 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 ## GitHub Demos
 * [GitHub Copilot: your AI pair programmer - GitHub Checkout](https://www.youtube.com/watch?v=St2CMvK4hK0)
+* [Chat](https://youtu.be/3surPGP7_4o)
 
 ## Articles
 * ["What is GitHub Copilot? An AI Pair Programmer for Everyone" by Daniel Diaz, August 9, 2021. Accessed on 4/17/2023](https://www.sitepoint.com/github-copilot-ai-pair-programming/)
