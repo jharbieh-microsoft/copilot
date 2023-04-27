@@ -103,6 +103,8 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 * [D365 Copilot announcement in March 2023](https://blogs.microsoft.com/blog/2023/03/06/introducing-microsoft-dynamics-365-copilot/)
 
+* ["Announcing a next-generation AI Copilot in Microsoft Power Apps that will transform low-code development" by Ryan Cunningham, VP, Power Apps. March 16, 2023. Accessed on 4/27/2023](https://powerapps.microsoft.com/en-us/blog/announcing-a-next-generation-ai-copilot-in-microsoft-power-apps-that-will-transform-low-code-development/)
+
 ## Links and Resources
 * [Get Started](https://docs.github.com/en/copilot/getting-started-with-github-copilot)
 * [Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview)
@@ -124,6 +126,21 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 ## GitHub Demos
 * [GitHub Copilot: your AI pair programmer - GitHub Checkout](https://www.youtube.com/watch?v=St2CMvK4hK0)
 * [Chat](https://youtu.be/3surPGP7_4o)
+
+## Bing DALL-E
+* [Bing Search Image Creator](https://bing.com/create)
+
+## Designer with DALL-E
+* [Stunning designs, made lighting fast with AI](http://designer.microsoft.com/)
+
+## Legal shtuf
+* [OpenAI. DALL-E Content Policy. Accessed on 4/27/2023](https://help.openai.com/en/collections/3643409-dall-e-content-policy)
+
+* [OpenAI. Can I sell images I create with DALL-E? Accessed on 4/27/2023](https://help.openai.com/en/articles/6425277-can-i-sell-images-i-create-with-dall-e)
+
+* [OpenAI Content Policy. Accessed on 4/27/2023](https://labs.openai.com/policies/content-policy)
+
+* [Code of conduct for Azure OpenAI Service. Accessed on 4/27/2023](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/code-of-conduct)
 
 ## Articles
 * ["What is GitHub Copilot? An AI Pair Programmer for Everyone" by Daniel Diaz, August 9, 2021. Accessed on 4/17/2023](https://www.sitepoint.com/github-copilot-ai-pair-programming/)
