@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment>provide a sample of three companies with name, region, number and owner</comment>
+<company>
+    <name>Company A</name>
+    <region>North</region>
+    <number>1</number>
+    <owner>John</owner>
+</company>
+<company>
+    <name>Company B</name>
+    <region>South</region>
+    <number>2</number>
+    <owner>Paul</owner>
+</company>
+<company>
+    <name>Company C</name>
+    <region>East</region>
+    <number>3</number>
+    <owner>George</owner>
+</company>
+
