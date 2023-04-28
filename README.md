@@ -130,6 +130,9 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 ## Bing DALL-E
 * [Bing Search Image Creator](https://bing.com/create)
 
+## Bing Chat
+* [Bing Chat](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx)
+
 ## Designer with DALL-E
 * [Stunning designs, made lighting fast with AI](http://designer.microsoft.com/)
 
