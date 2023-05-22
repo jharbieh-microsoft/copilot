@@ -168,6 +168,8 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 * [‘The Godfather of A.I.’ just quit Google and says he regrets his life’s work because it can be hard to stop ‘bad actors from using it for bad things’ by Prarthana Prakash, Fortune Media IP Limited. May 1, 2023 12:55 pm CDT. Accessed on 5/2/2023](https://fortune.com/2023/05/01/godfather-ai-geoffrey-hinton-quit-google-regrets-lifes-work-bad-actors/)
 
+* ["DeepMind cofounder warns governments seriously need to find solutions for people who lose their jobs to A.I." by CHRISTIAAN HETZNER May 10, 2023. Fortune Media IP Limited. Accessed on 5/21/2023.](https://fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/)
+
 ## Executives
 * ["Satya Nadella: Microsoft's Products Will Soon Access Open AI Tools Like ChatGPT | WSJ". Wall Street Journal. Accessed on 4/14/2023.](https://youtu.be/UNbyT7wPwk4)
 
