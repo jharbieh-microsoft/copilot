@@ -91,10 +91,14 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 ## Behind the Scenes
 - [Prompt Engine](https://github.com/microsoft/prompt-engine) - The Prompt Engine is a library for building natural language prompts for code generation. It is used by Copilot to generate prompts for code completion.
+
 - [Prompt Engineering](https://microsoft.github.io/prompt-engineering/) - The Prompt Engineering website is a collection of resources for building natural language prompts for code generation. It is used by Copilot to generate prompts for code completion.
 
+- [Semantic Kernel](https://github.com/microsoft/semantic-kernel)
+
 ## Example Applications built ontop of the tech
-[AutoGPT](https://autogpt.net/what-is-auto-gpt-and-why-do-we-care/)
+- [AutoGPT](https://autogpt.net/what-is-auto-gpt-and-why-do-we-care/)
+- [Copilot Chat](https://learn.microsoft.com/en-us/semantic-kernel/samples-and-solutions/copilot-chat)
 
 ## Public Announcements
 * [GitHub Copilot announcement in June 2021](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/)
@@ -104,6 +108,10 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 * [D365 Copilot announcement in March 2023](https://blogs.microsoft.com/blog/2023/03/06/introducing-microsoft-dynamics-365-copilot/)
 
 * ["Announcing a next-generation AI Copilot in Microsoft Power Apps that will transform low-code development" by Ryan Cunningham, VP, Power Apps. March 16, 2023. Accessed on 4/27/2023](https://powerapps.microsoft.com/en-us/blog/announcing-a-next-generation-ai-copilot-in-microsoft-power-apps-that-will-transform-low-code-development/)
+
+* ["Microsoft outlines framework for building AI apps and copilots; expands AI plugin ecosystem" by John Roach. Published on May 23, 2023. Accessed on 5/23/2023](https://news.microsoft.com/source/features/ai/microsoft-outlines-framework-for-building-ai-apps-and-copilots-expands-ai-plugin-ecosystem/)
+
+* [Announcing Copilot Chat. Shannon Monroe. May 1st, 2023. Accessed on 5/23/2023](https://devblogs.microsoft.com/semantic-kernel/announcing-copilot-chat/)
 
 ## Links and Resources
 * [Get Started](https://docs.github.com/en/copilot/getting-started-with-github-copilot)
@@ -136,7 +144,7 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 ## Designer with DALL-E
 * [Stunning designs, made lighting fast with AI](http://designer.microsoft.com/)
 
-## Legal shtuf
+## Legal stuff
 * [OpenAI. DALL-E Content Policy. Accessed on 4/27/2023](https://help.openai.com/en/collections/3643409-dall-e-content-policy)
 
 * [OpenAI. Can I sell images I create with DALL-E? Accessed on 4/27/2023](https://help.openai.com/en/articles/6425277-can-i-sell-images-i-create-with-dall-e)
@@ -170,7 +178,7 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 * ["DeepMind cofounder warns governments seriously need to find solutions for people who lose their jobs to A.I." by CHRISTIAAN HETZNER May 10, 2023. Fortune Media IP Limited. Accessed on 5/21/2023.](https://fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/)
 
-## Executives
+## What the C-Suite is saying
 * ["Satya Nadella: Microsoft's Products Will Soon Access Open AI Tools Like ChatGPT | WSJ". Wall Street Journal. Accessed on 4/14/2023.](https://youtu.be/UNbyT7wPwk4)
 
 * ["OpenAI CEO, CTO on risks and how AI will reshape society". ABC News. Accessed on 4/14/2023.](https://youtu.be/540vzMlf-54)
@@ -186,6 +194,7 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 * ["OpenAI Co-founder Greg Brockman on ChatGPT, DALL·E and the Impact of Generative AI | SXSW 2023". SXSW. Accessed on 4/14/2023.](https://youtu.be/YtJEfTTD_Y4)
 
 # Hello World Copilot Examples Usage
+A few code files will include how to run comments inline. 
 
 ### Compiling a .cs file
 ```
