@@ -185,6 +185,12 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 * [GPT-4 Will Have 100 Trillion Parameters — 500x the Size of GPT-3. Are there any limits to large neural networks? By Alberto Romero. Published in Towards Data Science. Sep 11, 2021. Accessed on 6/2/2023](https://towardsdatascience.com/gpt-4-will-have-100-trillion-parameters-500x-the-size-of-gpt-3-582b98d82253)
 
+## Articles on AI and Compute
+
+* [Microsoft signs deal for A.I. computing power with Nvidia-backed CoreWeave that could be worth billions. Jun 1, 2023. CNBC. by Jordan Novet. Accessed on 6/2/2023](https://www.cnbc.com/2023/06/01/microsoft-inks-deal-with-coreweave-to-meet-openai-cloud-demand.html)
+
+* [Nvidia's founders came up their trillion-dollar idea while spending hours drinking Denny's coffee and eating Grand Slam breakfasts: 'We were not good customers'. By Grace Mayer. MSN. Insider.com Accessed on 6/2/2023](https://www.msn.com/en-us/news/technology/nvidias-founders-came-up-their-trillion-dollar-idea-while-spending-hours-drinking-dennys-coffee-and-eating-grand-slam-breakfasts-we-were-not-good-customers/ar-AA1c092w)
+
 ## What Research Firms are saying
 * [The state of AI in 2022—and a half decade in review. December 6, 2022 | Survey. Accessed on 6/2/2023](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2022-and-a-half-decade-in-review)
 
