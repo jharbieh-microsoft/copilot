@@ -183,6 +183,9 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 * ["DeepMind cofounder warns governments seriously need to find solutions for people who lose their jobs to A.I." by CHRISTIAAN HETZNER May 10, 2023. Fortune Media IP Limited. Accessed on 5/21/2023.](https://fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/)
 
+## What Research Firms are saying
+* [The state of AI in 2022—and a half decade in review. December 6, 2022 | Survey. Accessed on 6/2/2023](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2022-and-a-half-decade-in-review)
+
 ## What the C-Suite is saying
 * ["Satya Nadella: Microsoft's Products Will Soon Access Open AI Tools Like ChatGPT | WSJ". Wall Street Journal. Accessed on 4/14/2023.](https://youtu.be/UNbyT7wPwk4)
 
