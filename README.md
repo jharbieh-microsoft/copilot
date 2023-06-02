@@ -183,6 +183,8 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 * ["DeepMind cofounder warns governments seriously need to find solutions for people who lose their jobs to A.I." by CHRISTIAAN HETZNER May 10, 2023. Fortune Media IP Limited. Accessed on 5/21/2023.](https://fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/)
 
+* [GPT-4 Will Have 100 Trillion Parameters — 500x the Size of GPT-3. Are there any limits to large neural networks? By Alberto Romero. Published in Towards Data Science. Sep 11, 2021. Accessed on 6/2/2023](https://towardsdatascience.com/gpt-4-will-have-100-trillion-parameters-500x-the-size-of-gpt-3-582b98d82253)
+
 ## What Research Firms are saying
 * [The state of AI in 2022—and a half decade in review. December 6, 2022 | Survey. Accessed on 6/2/2023](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2022-and-a-half-decade-in-review)
 
