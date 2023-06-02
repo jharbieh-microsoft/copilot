@@ -113,6 +113,8 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 * [Announcing Copilot Chat. Shannon Monroe. May 1st, 2023. Accessed on 5/23/2023](https://devblogs.microsoft.com/semantic-kernel/announcing-copilot-chat/)
 
+* [Introducing Microsoft Security Copilot: Empowering defenders at the speed of AI. Mar 28, 2023 by Vasu Jakkal - Corporate Vice President, Security, Compliance, Identity, and Management. Accessed on 6/2/2023](https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/)
+
 ## Links and Resources
 * [Get Started](https://docs.github.com/en/copilot/getting-started-with-github-copilot)
 * [Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview)
