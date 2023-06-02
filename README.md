@@ -124,6 +124,9 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 * [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 * [Copilot for CLI](https://githubnext.com/projects/copilot-cli/)
 
+## OpenAI Demos
+* [OpenAI Codex Live Demo](https://youtu.be/SGUCcjHTmGY)
+
 ## Community Demos
 * [Using Copilot Chat to fix vulnerability discovered by GitHub Advanced Security](https://www.youtube.com/watch?v=ljVTvV9MqFE)
 * [Writing Tests with Copilot](https://youtu.be/IRLMLEfcXEI)
@@ -192,6 +195,8 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 * ["OpenAI GPT-4: The Most Advanced AI Yet - Live with Tesla & Elon Musk". Tesla. Accessed on 4/14/2023.](https://youtu.be/al8Jc0hIAe4)
 
 * ["OpenAI Co-founder Greg Brockman on ChatGPT, DALL·E and the Impact of Generative AI | SXSW 2023". SXSW. Accessed on 4/14/2023.](https://youtu.be/YtJEfTTD_Y4)
+
+* [Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI | Lex Fridman Podcast #367](https://youtu.be/L_Guz73e6fw)
 
 # Hello World Copilot Examples Usage
 A few code files will include how to run comments inline. 
