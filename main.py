@@ -1,3 +1,62 @@
+# create a function that will read from a csv file and output to console
+import csv
+
+def read_csv():
+    with open('data.csv', 'r') as csv_file:
+        csv_reader = csv.reader(csv_file)
+
+        for line in csv_reader:
+            print(line)
+
+read_csv()
+
+print("--//--")
+
+# create a function that will read from a csv file and output to console
+
+# how do I run a python script from the command line?
+# python main.py
+
+# how do I install python?
+# https://www.python.org/downloads/
+
+# how do I install pip?
+# https://pip.pypa.io/en/stable/installing/
+
+
+# write a function that will take 2 numbers and add them together and then divide the result by zero and return the result
+def add(num1, num2):
+    # add two numbers and divide by zero
+    return (num1 + num2)/1
+
+print(add(1,2))
+
+print("--//--")
+
+# write a function that will take 2 integer paramters and divide them by zero and return the result
+# This code divides two numbers and returns the result. If the second number is zero, it will return None and print an error message.
+def divide(num1, num2):
+    try:
+        return num1/num2
+    except ZeroDivisionError as err:
+        print(err)
+
+print(divide(1,0))
+
+print("--//--")
+
+def divide(num1, num2):
+    try:
+        return num1/num2
+    except ZeroDivisionError as err:
+        print(err)
+
+print(divide(1,0))
+
+print("--//--")
+
+# write a function that will take 2 integer paramters and divide them by zero and return the result
+
 # write a hello world example in python
 print("Hello World")
 print("--//--")
