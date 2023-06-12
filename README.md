@@ -107,13 +107,15 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 * [D365 Copilot announcement in March 2023](https://blogs.microsoft.com/blog/2023/03/06/introducing-microsoft-dynamics-365-copilot/)
 
-* ["Announcing a next-generation AI Copilot in Microsoft Power Apps that will transform low-code development" by Ryan Cunningham, VP, Power Apps. March 16, 2023. Accessed on 4/27/2023](https://powerapps.microsoft.com/en-us/blog/announcing-a-next-generation-ai-copilot-in-microsoft-power-apps-that-will-transform-low-code-development/)
+* [Announcing a next-generation AI Copilot in Microsoft Power Apps that will transform low-code development. Ryan Cunningham, VP, Power Apps. March 16, 2023. Accessed on 4/27/2023](https://powerapps.microsoft.com/en-us/blog/announcing-a-next-generation-ai-copilot-in-microsoft-power-apps-that-will-transform-low-code-development/)
 
-* ["Microsoft outlines framework for building AI apps and copilots; expands AI plugin ecosystem" by John Roach. Published on May 23, 2023. Accessed on 5/23/2023](https://news.microsoft.com/source/features/ai/microsoft-outlines-framework-for-building-ai-apps-and-copilots-expands-ai-plugin-ecosystem/)
+* [Microsoft outlines framework for building AI apps and copilots; expands AI plugin ecosystem. John Roach. Published on May 23, 2023. Accessed on 5/23/2023](https://news.microsoft.com/source/features/ai/microsoft-outlines-framework-for-building-ai-apps-and-copilots-expands-ai-plugin-ecosystem/)
 
 * [Announcing Copilot Chat. Shannon Monroe. May 1st, 2023. Accessed on 5/23/2023](https://devblogs.microsoft.com/semantic-kernel/announcing-copilot-chat/)
 
 * [Introducing Microsoft Security Copilot: Empowering defenders at the speed of AI. Mar 28, 2023 by Vasu Jakkal - Corporate Vice President, Security, Compliance, Identity, and Management. Accessed on 6/2/2023](https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/)
+
+* [Announcing Microsoft’s AI Customer Commitments. Antony Cook, Corporate Vice President and Deputy General Counsel, Microsoft. Accessed on 6/12/2023](https://blogs.microsoft.com/blog/2023/06/08/announcing-microsofts-ai-customer-commitments/)
 
 ## Links and Resources
 * [Get Started](https://docs.github.com/en/copilot/getting-started-with-github-copilot)
@@ -159,29 +161,29 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 * [Code of conduct for Azure OpenAI Service. Accessed on 4/27/2023](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/code-of-conduct)
 
 ## Articles
-* ["What is GitHub Copilot? An AI Pair Programmer for Everyone" by Daniel Diaz, August 9, 2021. Accessed on 4/17/2023](https://www.sitepoint.com/github-copilot-ai-pair-programming/)
+* [What is GitHub Copilot? An AI Pair Programmer for Everyone. Daniel Diaz, August 9, 2021. Accessed on 4/17/2023](https://www.sitepoint.com/github-copilot-ai-pair-programming/)
 
-* ["GitHub’s Copilot goes beyond code completion, adds a chat mode and more" by Frederic Lardinois, March 22, 2023. Accessed on 4/17/2023](https://techcrunch.com/2023/03/22/githubs-copilot-goes-beyond-code-completion-adds-a-chat-mode-and-more/)
+* [GitHub’s Copilot goes beyond code completion, adds a chat mode and more. Frederic Lardinois, March 22, 2023. Accessed on 4/17/2023](https://techcrunch.com/2023/03/22/githubs-copilot-goes-beyond-code-completion-adds-a-chat-mode-and-more/)
 
-* ["Generative AI set to affect 300 million jobs across major economies". Ars Technica. DELPHINE STRAUSS, FINANCIAL TIMES - 3/28/2023, 8:30 AM. Accessed 4/13/2023. ](members-5342839@toastmastersclubs.org)
+* [Generative AI set to affect 300 million jobs across major economies. Ars Technica. DELPHINE STRAUSS, FINANCIAL TIMES - 3/28/2023, 8:30 AM. Accessed 4/13/2023. ](members-5342839@toastmastersclubs.org)
 
-* ["Oops: Samsung Employees Leaked Confidential Data to ChatGPT". Gizmodo. Accessed 4/14/2023.](https://gizmodo.com/chatgpt-ai-samsung-employees-leak-data-1850307376)
+* [Oops: Samsung Employees Leaked Confidential Data to ChatGPT. Gizmodo. Accessed 4/14/2023.](https://gizmodo.com/chatgpt-ai-samsung-employees-leak-data-1850307376)
 
-* ["Research: quantifying GitHub Copilot’s impact on developer productivity and happiness". GitHub Blog. Accessed on 4/14/2023.](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
+* [Research: quantifying GitHub Copilot’s impact on developer productivity and happiness. GitHub Blog. Accessed on 4/14/2023.](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
 
-* ["Augmenting In-House Innovation with Startups: Generative AI". ShiSh S. Accessed on 4/14/2023.](https://www.linkedin.com/pulse/augmenting-in-house-innovation-startups-generative-ai-shish-shridhar/)
+* [Augmenting In-House Innovation with Startups: Generative AI. ShiSh S. Accessed on 4/14/2023.](https://www.linkedin.com/pulse/augmenting-in-house-innovation-startups-generative-ai-shish-shridhar/)
 
-* ["GitHub Copilot X: The AI-powered developer experience". Accessed on 4/17/2023](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
+* [GitHub Copilot X: The AI-powered developer experience. Accessed on 4/17/2023](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
 
-* ["Github Copilot for Swift iOS Developers" by Rudolf Farkas May 22, 2022. Accessed on 4/19/2023](https://medium.com/@rudi.farkas/github-copilot-for-swift-ios-developers-85b3369696d0)
+* [Github Copilot for Swift iOS Developers. Rudolf Farkas May 22, 2022. Accessed on 4/19/2023](https://medium.com/@rudi.farkas/github-copilot-for-swift-ios-developers-85b3369696d0)
 
-* ["Research: How GitHub Copilot helps improve developer productivity" by Albert Ziegler July 14, 2022. Accessed on 4/19/2023](https://github.blog/2022-07-14-research-how-github-copilot-helps-improve-developer-productivity/)
+* [Research: How GitHub Copilot helps improve developer productivity. Albert Ziegler July 14, 2022. Accessed on 4/19/2023](https://github.blog/2022-07-14-research-how-github-copilot-helps-improve-developer-productivity/)
 
-* ["GitHub Copilot for CLI for PowerShell" by Scott Hanselman April 25, 2023. Accessed on 4/26/2023](https://www.hanselman.com/blog/github-copilot-for-cli-for-powershell)
+* [GitHub Copilot for CLI for PowerShell. Scott Hanselman April 25, 2023. Accessed on 4/26/2023](https://www.hanselman.com/blog/github-copilot-for-cli-for-powershell)
 
-* [‘The Godfather of A.I.’ just quit Google and says he regrets his life’s work because it can be hard to stop ‘bad actors from using it for bad things’ by Prarthana Prakash, Fortune Media IP Limited. May 1, 2023 12:55 pm CDT. Accessed on 5/2/2023](https://fortune.com/2023/05/01/godfather-ai-geoffrey-hinton-quit-google-regrets-lifes-work-bad-actors/)
+* ["The Godfather of A.I." just quit Google and says he regrets his life’s work because it can be hard to stop ‘bad actors from using it for bad things’ by Prarthana Prakash, Fortune Media IP Limited. May 1, 2023 12:55 pm CDT. Accessed on 5/2/2023](https://fortune.com/2023/05/01/godfather-ai-geoffrey-hinton-quit-google-regrets-lifes-work-bad-actors/)
 
-* ["DeepMind cofounder warns governments seriously need to find solutions for people who lose their jobs to A.I." by CHRISTIAAN HETZNER May 10, 2023. Fortune Media IP Limited. Accessed on 5/21/2023.](https://fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/)
+* [DeepMind cofounder warns governments seriously need to find solutions for people who lose their jobs to A.I. CHRISTIAAN HETZNER May 10, 2023. Fortune Media IP Limited. Accessed on 5/21/2023.](https://fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/)
 
 * [GPT-4 Will Have 100 Trillion Parameters — 500x the Size of GPT-3. Are there any limits to large neural networks? By Alberto Romero. Published in Towards Data Science. Sep 11, 2021. Accessed on 6/2/2023](https://towardsdatascience.com/gpt-4-will-have-100-trillion-parameters-500x-the-size-of-gpt-3-582b98d82253)
 
@@ -227,6 +229,7 @@ A few code files will include how to run comments inline.
 # Lessons Learned
 1. The Coldfusion language may not supported by Copilot. It did take me some time to get it to work with it. It did finally do write me some code.
 2. I'm having a bit of a challenge to write VB. VBScript was straight forward. 
+3. Copilot not much of a help yet when it comes to .bicep files.
 
 
 # Contributing
