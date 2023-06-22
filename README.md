@@ -117,6 +117,10 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 * [Announcing Microsoft’s AI Customer Commitments. Antony Cook, Corporate Vice President and Deputy General Counsel, Microsoft. Accessed on 6/12/2023](https://blogs.microsoft.com/blog/2023/06/08/announcing-microsofts-ai-customer-commitments/)
 
+* [Microsoft achieves first milestone towards a quantum supercomputer. Chetan Nayak, Technical Fellow and Corporate Vice President of Quantum Hardware. June 21st, 2023. Accessed on 6/21/2023.](https://cloudblogs.microsoft.com/quantum/2023/06/21/microsoft-achieves-first-milestone-towards-a-quantum-supercomputer/)
+
+* [Introducing the Microsoft 365 Copilot Early Access Program and new capabilities in Copilot. By Colette Stallbaumer, General Manager, Microsoft 365 and Future of Work. Accessed on 6/21/2023](https://www.microsoft.com/en-us/microsoft-365/blog/2023/05/09/introducing-the-microsoft-365-copilot-early-access-program-and-new-capabilities-in-copilot/)
+
 ## Links and Resources
 * [Get Started](https://docs.github.com/en/copilot/getting-started-with-github-copilot)
 * [Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview)
@@ -127,6 +131,9 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 * [Copilot for Business](https://docs.github.com/en/copilot/overview-of-github-copilot/about-github-copilot-for-business)
 * [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 * [Copilot for CLI](https://githubnext.com/projects/copilot-cli/)
+
+## Tutorials or Quickstarts
+* [Quickstart: Chat with Azure OpenAI models using your own data](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/use-your-data-quickstart?tabs=command-line&pivots=programming-language-studio)
 
 ## OpenAI Demos
 * [OpenAI Codex Live Demo](https://youtu.be/SGUCcjHTmGY)
@@ -141,6 +148,9 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 ## GitHub Demos
 * [GitHub Copilot: your AI pair programmer - GitHub Checkout](https://www.youtube.com/watch?v=St2CMvK4hK0)
 * [Chat](https://youtu.be/3surPGP7_4o)
+
+## Microsoft Mechanics
+* [Microsoft Mechanics. What runs ChatGPT? Inside Microsoft's AI supercomputer. Featuring Mark Russinovich. Accessed on 6/21/2023](https://youtu.be/Rk3nTUfRZmo)
 
 ## Bing DALL-E
 * [Bing Search Image Creator](https://bing.com/create)
@@ -188,7 +198,6 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 * [GPT-4 Will Have 100 Trillion Parameters — 500x the Size of GPT-3. Are there any limits to large neural networks? By Alberto Romero. Published in Towards Data Science. Sep 11, 2021. Accessed on 6/2/2023](https://towardsdatascience.com/gpt-4-will-have-100-trillion-parameters-500x-the-size-of-gpt-3-582b98d82253)
 
 ## Articles on AI and Compute
-
 * [Microsoft signs deal for A.I. computing power with Nvidia-backed CoreWeave that could be worth billions. Jun 1, 2023. CNBC. by Jordan Novet. Accessed on 6/2/2023](https://www.cnbc.com/2023/06/01/microsoft-inks-deal-with-coreweave-to-meet-openai-cloud-demand.html)
 
 * [Nvidia's founders came up their trillion-dollar idea while spending hours drinking Denny's coffee and eating Grand Slam breakfasts: 'We were not good customers'. By Grace Mayer. MSN. Insider.com Accessed on 6/2/2023](https://www.msn.com/en-us/news/technology/nvidias-founders-came-up-their-trillion-dollar-idea-while-spending-hours-drinking-dennys-coffee-and-eating-grand-slam-breakfasts-we-were-not-good-customers/ar-AA1c092w)
