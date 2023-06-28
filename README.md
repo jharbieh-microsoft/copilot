@@ -121,6 +121,8 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 * [Introducing the Microsoft 365 Copilot Early Access Program and new capabilities in Copilot. By Colette Stallbaumer, General Manager, Microsoft 365 and Future of Work. Accessed on 6/21/2023](https://www.microsoft.com/en-us/microsoft-365/blog/2023/05/09/introducing-the-microsoft-365-copilot-early-access-program-and-new-capabilities-in-copilot/)
 
+* [LinkedIn. Pulse. Microsoft Launches New AI Skills Training and Resources as part of Skill for Jobs Initiative. By Kate Behncken Corp. Vice President, Microsoft Philanthropies. Published June 28, 2023. Accessed 6/28/2023](https://www.linkedin.com/pulse/microsofts-launches-new-ai-skills-training-resources-part-behncken/)
+
 ## Links and Resources
 * [Get Started](https://docs.github.com/en/copilot/getting-started-with-github-copilot)
 * [Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview)
