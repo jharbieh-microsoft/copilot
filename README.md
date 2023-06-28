@@ -174,6 +174,12 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 * [Microsoft Learn. Transparency note for Copilot data security and privacy in Microsoft Power Platform. Accessed on 6/28/2023](https://learn.microsoft.com/en-us/power-platform/transparency-note-copilot-data-security-privacy)
 
+* [GitHub Copilot Product Specific Terms. Accessed on 6/28/2023](https://github.com/customer-terms/github-copilot-product-specific-terms)
+
+* [GitHub Privacy Statement. Effective date: December 15, 2022. Accessed on 6/28/2023](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement)
+
+* [GitHub Copilot for Business Privacy Statement. Effective Date: December 7, 2022](https://docs.github.com/en/site-policy/privacy-policies/github-copilot-for-business-privacy-statement)
+
 ## Articles
 * [What is GitHub Copilot? An AI Pair Programmer for Everyone. Daniel Diaz, August 9, 2021. Accessed on 4/17/2023](https://www.sitepoint.com/github-copilot-ai-pair-programming/)
 
