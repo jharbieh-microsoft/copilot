@@ -161,7 +161,7 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 ## Designer with DALL-E
 * [Stunning designs, made lighting fast with AI](http://designer.microsoft.com/)
 
-## Legal stuff
+## Privacy, Security, Governance, Policy and Legal
 * [OpenAI. DALL-E Content Policy. Accessed on 4/27/2023](https://help.openai.com/en/collections/3643409-dall-e-content-policy)
 
 * [OpenAI. Can I sell images I create with DALL-E? Accessed on 4/27/2023](https://help.openai.com/en/articles/6425277-can-i-sell-images-i-create-with-dall-e)
@@ -169,6 +169,8 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 * [OpenAI Content Policy. Accessed on 4/27/2023](https://labs.openai.com/policies/content-policy)
 
 * [Code of conduct for Azure OpenAI Service. Accessed on 4/27/2023](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/code-of-conduct)
+
+* [Microsoft Learn. Transparency note for Copilot data security and privacy in Microsoft Power Platform. Accessed on 6/28/2023](https://learn.microsoft.com/en-us/power-platform/transparency-note-copilot-data-security-privacy)
 
 ## Articles
 * [What is GitHub Copilot? An AI Pair Programmer for Everyone. Daniel Diaz, August 9, 2021. Accessed on 4/17/2023](https://www.sitepoint.com/github-copilot-ai-pair-programming/)
