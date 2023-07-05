@@ -33,6 +33,16 @@ Predictive models based on data and statistics
 - Text analysis: term and document comprehension
 - Natural language processing and machine translation
 
+## Responsible AI Prinicples
+- Fairness
+- Reliable
+- Safe
+- Private
+- Secure
+- Inclusivness
+- Transparent
+- Accountable
+
 ## OpenAI + Microsoft Offerings
 * GPT (generate and understand text)
 * Codex (generate and understand code)
