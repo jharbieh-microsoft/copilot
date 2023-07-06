@@ -44,9 +44,10 @@ Predictive models based on data and statistics
 - Accountable
 
 ## OpenAI + Microsoft Offerings
-* GPT (generate and understand text)
-* Codex (generate and understand code)
-* Dall-E (generate images from text prompts)
+* Generative pre-trained transformer (GPT): GPT (generate and understand text)
+* Codex: (based off of GPT and are optimized to generate and understand code)
+* Dall-E: (generate images from text prompts)
+* Embeddings: (a special format of data representation that can be easily utilized by machine learning models and algorithms)
 
 ## Introduction to Copilot by Copilot
 Copilot is a new AI-powered coding assistant that helps you write code faster and with fewer bugs. 
@@ -172,6 +173,8 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 * [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 
 * [Copilot for CLI](https://githubnext.com/projects/copilot-cli/)
+
+* [Embedding Models](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/understand-embeddings)
 
 ## Tutorials or Quickstarts
 * [Quickstart: Chat with Azure OpenAI models using your own data](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/use-your-data-quickstart?tabs=command-line&pivots=programming-language-studio)
