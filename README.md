@@ -156,13 +156,21 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 ## Links and Resources
 * [Get Started](https://docs.github.com/en/copilot/getting-started-with-github-copilot)
+
 * [Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview)
+
 * [Azure OpenAI Service Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/)
+
 * [Azure OpenAI Studio](https://oai.azure.com/)
+
 * [GitHub Copilot Licensing](https://docs.github.com/en/billing/managing-billing-for-github-copilot/about-billing-for-github-copilot)
+
 * [Copilot for Individuals](https://docs.github.com/en/copilot/overview-of-github-copilot/about-github-copilot-for-individuals)
+
 * [Copilot for Business](https://docs.github.com/en/copilot/overview-of-github-copilot/about-github-copilot-for-business)
+
 * [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
+
 * [Copilot for CLI](https://githubnext.com/projects/copilot-cli/)
 
 ## Tutorials or Quickstarts
@@ -195,6 +203,8 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 * [Stunning designs, made lighting fast with AI](http://designer.microsoft.com/)
 
 ## Privacy, Security, Governance, Policy and Legal
+* [Microsoft Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai)
+
 * [OpenAI. DALL-E Content Policy. Accessed on 4/27/2023](https://help.openai.com/en/collections/3643409-dall-e-content-policy)
 
 * [OpenAI. Can I sell images I create with DALL-E? Accessed on 4/27/2023](https://help.openai.com/en/articles/6425277-can-i-sell-images-i-create-with-dall-e)
@@ -262,6 +272,9 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 * ["OpenAI Co-founder Greg Brockman on ChatGPT, DALL·E and the Impact of Generative AI | SXSW 2023". SXSW. Accessed on 4/14/2023.](https://youtu.be/YtJEfTTD_Y4)
 
 * [Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI | Lex Fridman Podcast #367](https://youtu.be/L_Guz73e6fw)
+
+# Certifications and Learning Paths
+* [Microsoft Azure AI Fundamentals: Get started with artificial intelligence](https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/)
 
 # Hello World Copilot Examples Usage
 A few code files will include how to run comments inline. 
