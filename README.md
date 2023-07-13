@@ -176,8 +176,10 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 * [Embedding Models](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/understand-embeddings)
 
-## Tutorials or Quickstarts
+## Tutorials, Quickstarts, and Accelerators
 * [Quickstart: Chat with Azure OpenAI models using your own data](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/use-your-data-quickstart?tabs=command-line&pivots=programming-language-studio)
+
+* [Microsoft GitHub. AI Solution Accelerators](https://github.com/Azure/ai-solution-accelerators-list)
 
 ## OpenAI Demos
 * [OpenAI Codex Live Demo](https://youtu.be/SGUCcjHTmGY)
@@ -299,7 +301,6 @@ A few code files will include how to run comments inline.
 
 
 # Contributing
-
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit https://cla.microsoft.com.
@@ -313,7 +314,6 @@ For more information see the [Code of Conduct FAQ](https://opensource.microsoft.
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
 # Legal Notices
-
 Microsoft and any contributors grant you a license to the Microsoft documentation and other content
 in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode),
 see the [LICENSE](LICENSE) file, and grant you a license to any code in the repository under the [MIT License](https://opensource.org/licenses/MIT), see the
