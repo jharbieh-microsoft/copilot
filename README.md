@@ -181,6 +181,8 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 * [Microsoft GitHub. AI Solution Accelerators](https://github.com/Azure/ai-solution-accelerators-list)
 
+* [Microsoft Learn AI Skills Challenge](https://www.microsoft.com/en-US/cloudskillschallenge/ai/registration/2023)
+
 ## OpenAI Demos
 * [OpenAI Codex Live Demo](https://youtu.be/SGUCcjHTmGY)
 
