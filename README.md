@@ -155,6 +155,8 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 * [LinkedIn. Pulse. Microsoft Launches New AI Skills Training and Resources as part of Skill for Jobs Initiative. By Kate Behncken Corp. Vice President, Microsoft Philanthropies. Published June 28, 2023. Accessed 6/28/2023](https://www.linkedin.com/pulse/microsofts-launches-new-ai-skills-training-resources-part-behncken/)
 
+* [GitHub Copilot Chat beta now available for every organization. Mario Rodriguez. July 20, 2023. Accessed on 7/20/2023](https://github.blog/2023-07-20-github-copilot-chat-beta-now-available-for-every-organization/)
+
 ## Links and Resources
 * [Get Started](https://docs.github.com/en/copilot/getting-started-with-github-copilot)
 
