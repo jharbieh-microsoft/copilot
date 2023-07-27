@@ -139,6 +139,10 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 * [D365 Copilot announcement in March 2023](https://blogs.microsoft.com/blog/2023/03/06/introducing-microsoft-dynamics-365-copilot/)
 
+* [Windows Copilot announcement in May 2023](https://blogs.windows.com/windowsdeveloper/2023/05/23/bringing-the-power-of-ai-to-windows-11-unlocking-a-new-era-of-productivity-for-customers-and-developers-with-windows-copilot-and-dev-home/)
+
+* [Microsoft Fabric and Copilot in Microsoft Power BI announcement in May 2023](https://powerbi.microsoft.com/en-us/blog/introducing-microsoft-fabric-and-copilot-in-microsoft-power-bi/)
+
 * [Announcing a next-generation AI Copilot in Microsoft Power Apps that will transform low-code development. Ryan Cunningham, VP, Power Apps. March 16, 2023. Accessed on 4/27/2023](https://powerapps.microsoft.com/en-us/blog/announcing-a-next-generation-ai-copilot-in-microsoft-power-apps-that-will-transform-low-code-development/)
 
 * [Microsoft outlines framework for building AI apps and copilots; expands AI plugin ecosystem. John Roach. Published on May 23, 2023. Accessed on 5/23/2023](https://news.microsoft.com/source/features/ai/microsoft-outlines-framework-for-building-ai-apps-and-copilots-expands-ai-plugin-ecosystem/)
