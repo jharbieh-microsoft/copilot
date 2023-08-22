@@ -126,7 +126,7 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 - [Prompt Engineering](https://microsoft.github.io/prompt-engineering/) - The Prompt Engineering website is a collection of resources for building natural language prompts for code generation. It is used by Copilot to generate prompts for code completion.
 
-- [Semantic Kernel](https://github.com/microsoft/semantic-kernel)
+- [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - Semantic Kernel is an open-source SDK that lets you easily combine AI services like OpenAI, Azure OpenAI, and Hugging Face with conventional programming languages like C# and Python. In other words, it is an AI orchestration layer that allows us to combine AI models and plugins together to create brand new experiences for users.
 
 ## Example Applications built ontop of the tech
 - [AutoGPT](https://autogpt.net/what-is-auto-gpt-and-why-do-we-care/)
@@ -189,6 +189,8 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 * [Microsoft Learn AI Skills Challenge](https://www.microsoft.com/en-US/cloudskillschallenge/ai/registration/2023)
 
+* [Azure OpenAI Samples](https://github.com/Azure/azure-openai-samples)
+
 ## OpenAI Demos
 * [OpenAI Codex Live Demo](https://youtu.be/SGUCcjHTmGY)
 
@@ -198,6 +200,9 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 * [Copilot : Build a new features in few minutes](https://youtu.be/-JBHy5w94Us)
 * [Copilot: code faster with contextual suggestions](https://youtu.be/k0uVz3OmJGw)
 * [Fun with copilot](https://www.youtube.com/playlist?list=PL2AONzGTULQJ_GaR8nwLil6pAoOfTzd1J)
+
+## Acedemic Lectures
+* [Harvard. CS50. GPT-4 - How does it work, and how do I build apps with it](https://www.youtube.com/watch?v=vw-KWfKwvTQ)
 
 ## GitHub Demos
 * [GitHub Copilot: your AI pair programmer - GitHub Checkout](https://www.youtube.com/watch?v=St2CMvK4hK0)
