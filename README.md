@@ -162,7 +162,7 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 * [GitHub Copilot Chat beta now available for every organization. Mario Rodriguez. July 20, 2023. Accessed on 7/20/2023](https://github.blog/2023-07-20-github-copilot-chat-beta-now-available-for-every-organization/)
 
 ## Links and Resources
-* [Get Started](https://docs.github.com/en/copilot/getting-started-with-github-copilot)
+* [Get Started with GitHub Copilot](https://docs.github.com/en/copilot/getting-started-with-github-copilot)
 
 * [Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview)
 
@@ -239,6 +239,8 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 * [GitHub Copilot for Business Privacy Statement. Effective Date: December 7, 2022](https://docs.github.com/en/site-policy/privacy-policies/github-copilot-for-business-privacy-statement)
 
+* [GitHub Copilot Trust Center](https://resources.github.com/copilot-trust-center/)
+
 ## Articles
 * [What is GitHub Copilot? An AI Pair Programmer for Everyone. Daniel Diaz, August 9, 2021. Accessed on 4/17/2023](https://www.sitepoint.com/github-copilot-ai-pair-programming/)
 
@@ -248,7 +250,7 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 * [Oops: Samsung Employees Leaked Confidential Data to ChatGPT. Gizmodo. Accessed 4/14/2023.](https://gizmodo.com/chatgpt-ai-samsung-employees-leak-data-1850307376)
 
-* [Research: quantifying GitHub Copilot’s impact on developer productivity and happiness. GitHub Blog. Accessed on 4/14/2023.](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
+* [Research: Quantifying GitHub Copilot's impact on developer productivity and happiness. GitHub Blog. Accessed on 4/14/2023.](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
 
 * [Augmenting In-House Innovation with Startups: Generative AI. ShiSh S. Accessed on 4/14/2023.](https://www.linkedin.com/pulse/augmenting-in-house-innovation-startups-generative-ai-shish-shridhar/)
 
