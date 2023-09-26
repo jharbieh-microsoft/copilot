@@ -153,6 +153,8 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 * [Announcing Microsoft’s AI Customer Commitments. Antony Cook, Corporate Vice President and Deputy General Counsel, Microsoft. Accessed on 6/12/2023](https://blogs.microsoft.com/blog/2023/06/08/announcing-microsofts-ai-customer-commitments/)
 
+* [Microsoft announces new Copilot Copyright Commitment for customers. Brad Smith, Vice Chair and President, Hossein Nowbar, CVP and Chief Legal Officer. Accessed on 9/26/2023](https://blogs.microsoft.com/on-the-issues/2023/09/07/copilot-copyright-commitment-ai-legal-concerns/)
+
 * [Microsoft achieves first milestone towards a quantum supercomputer. Chetan Nayak, Technical Fellow and Corporate Vice President of Quantum Hardware. June 21st, 2023. Accessed on 6/21/2023.](https://cloudblogs.microsoft.com/quantum/2023/06/21/microsoft-achieves-first-milestone-towards-a-quantum-supercomputer/)
 
 * [Introducing the Microsoft 365 Copilot Early Access Program and new capabilities in Copilot. By Colette Stallbaumer, General Manager, Microsoft 365 and Future of Work. Accessed on 6/21/2023](https://www.microsoft.com/en-us/microsoft-365/blog/2023/05/09/introducing-the-microsoft-365-copilot-early-access-program-and-new-capabilities-in-copilot/)
