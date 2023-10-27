@@ -270,6 +270,8 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 * [GPT-4 Will Have 100 Trillion Parameters — 500x the Size of GPT-3. Are there any limits to large neural networks? By Alberto Romero. Published in Towards Data Science. Sep 11, 2021. Accessed on 6/2/2023](https://towardsdatascience.com/gpt-4-will-have-100-trillion-parameters-500x-the-size-of-gpt-3-582b98d82253)
 
+* [Microsoft has over a million paying Github Copilot users: CEO Nadella. Tiernan Ray, Senior Contributing Writer Oct. 25, 2023. Accessed on 10/27/2023](https://www.zdnet.com/article/microsoft-has-over-a-million-paying-github-copilot-users-ceo-nadella/)
+
 ## Articles on AI and Compute
 * [Microsoft signs deal for A.I. computing power with Nvidia-backed CoreWeave that could be worth billions. Jun 1, 2023. CNBC. by Jordan Novet. Accessed on 6/2/2023](https://www.cnbc.com/2023/06/01/microsoft-inks-deal-with-coreweave-to-meet-openai-cloud-demand.html)
 
