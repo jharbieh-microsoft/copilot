@@ -21,3 +21,10 @@ get '/' do
 
 # to run this file with rails
 
+=begin
+# run this file with rails
+# create a new rails app
+rails new myapp
+# go to the app directory
+=end
+
