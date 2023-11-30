@@ -133,6 +133,10 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 - [Copilot Chat](https://learn.microsoft.com/en-us/semantic-kernel/samples-and-solutions/copilot-chat)
 
 ## Public Announcements
+* [Microsoft Copilot for Azure. Article date. 11/15/2023](https://learn.microsoft.com/en-us/azure/copilot/overview)
+
+* [Analyze, estimate and optimize cloud costs using Microsoft Copilot for Azure (preview). Article date. 11/21/2023](https://learn.microsoft.com/en-us/azure/copilot/analyze-cost-management)
+
 * [GitHub Copilot announcement in June 2021](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/)
 
 * [M365 Copilot announcement in March 2023](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
