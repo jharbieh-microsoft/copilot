@@ -133,7 +133,7 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 - [Copilot Chat](https://learn.microsoft.com/en-us/semantic-kernel/samples-and-solutions/copilot-chat)
 
 ## Public Announcements
-* [Microsoft Copilot for Azure. Article date. 11/15/2023](https://learn.microsoft.com/en-us/azure/copilot/overview)
+* [Microsoft Copilot for Azure. Article date. 11/15/2023](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/simplify-it-management-with-microsoft-copilot-for-azure-save/ba-p/3981106)
 
 * [Analyze, estimate and optimize cloud costs using Microsoft Copilot for Azure (preview). Article date. 11/21/2023](https://learn.microsoft.com/en-us/azure/copilot/analyze-cost-management)
 
@@ -187,6 +187,8 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 * [Copilot for CLI](https://githubnext.com/projects/copilot-cli/)
 
 * [Embedding Models](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/understand-embeddings)
+
+* [Adopt, extend and build Copilot experiences across the Microsoft Cloud](https://learn.microsoft.com/en-us/microsoft-cloud/dev/copilot/overview)
 
 ## Tutorials, Quickstarts, and Accelerators
 * [Quickstart: Chat with Azure OpenAI models using your own data](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/use-your-data-quickstart?tabs=command-line&pivots=programming-language-studio)
@@ -303,6 +305,8 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 # Certifications and Learning Paths
 * [Microsoft Azure AI Fundamentals: Get started with artificial intelligence](https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/)
+
+* [Developing plugins with Semantic Kernel and Azure OpenAI](https://learn.microsoft.com/en-us/collections/8q1wf0k385rj7k)
 
 # Hello World Copilot Examples Usage
 A few code files will include how to run comments inline. 
