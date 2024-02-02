@@ -11,6 +11,26 @@
 
 (sum-of-squares '(1 2 3 4 5)) ; 55
 
+(defun square (n)
+    (* n n))
+
+(defun sum-of-squares (lst)
+    (reduce '+ (mapcar #'square lst)))
+
+(sum-of-squares '(1 2 3 4 5)) ; 55
 
 
+(ql:quickload "fiveam") ; Load the FiveAM library
+(in-package :fiveam)
+
+(def-suite sum-of-squares-suite :description "Testing sum-of-squares function")
+
+(in-suite sum-of-squares-suite)
+
+(test sum-of-squares-test
+    (is (= (sum-of-squares '(1 2 3 4 5)) 55))
+    (is (= (sum-of-squares '(0 0 0 0 0)) 0))
+    (is (= (sum-of-squares '(-1 -2 -3 -4 -5)) 55)))
+
+(run! 'sum-of-squares-suite)
 
