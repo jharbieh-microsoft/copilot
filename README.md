@@ -70,12 +70,12 @@ GitHub Copilot helps developers code faster, focus on solving bigger problems.
 - 88% feel more productive
 - 74% focus on more satisfying work
 
-### Use Cases
+### Copilot Use Cases
 * Find new solutions - Cycle through suggestions and discover a different path.
 * Solve big problems - Spend less time on boilerplate and repetitive code patterns and more time on building great software.
 * Explore new frameworks - Navigate unfamiliar languages, frameworks, and libraries with ease
 
-### I as a Developer want to... so that... 
+### User Stories: I as a Developer want to... so that... 
 1. I want to write code faster so that I can focus on solving bigger problems
 2. I want to write code with fewer bugs so that I can focus on solving bigger problems
 3. I want to write code with fewer errors so that I can focus on solving bigger problems
@@ -93,7 +93,7 @@ Your next steps might be to gather requriements, work on a high level design, pr
 Let's say the scenario is: "I want to build a web app that connects to a sql database and has an todo item api and then I want to deploy this app to Azure". Imagine now, with [Copilot, Copilot Labs, Copilot-X, Copilot CLI] *or which ever combination or product term we may end up with* I can do all of that from one IDE. 
 
 1. Context. Context. Context.
-2. Well written natural language comments.
+2. Well written natural language comments (in a code file) or prompts.
 3. Multiple tabs open in the IDE with code files related to the work you are doing.
 
 ## Copilot Supported IDEs
@@ -127,6 +127,8 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 - [Prompt Engineering](https://microsoft.github.io/prompt-engineering/) - The Prompt Engineering website is a collection of resources for building natural language prompts for code generation. It is used by Copilot to generate prompts for code completion.
 
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - Semantic Kernel is an open-source SDK that lets you easily combine AI services like OpenAI, Azure OpenAI, and Hugging Face with conventional programming languages like C# and Python. In other words, it is an AI orchestration layer that allows us to combine AI models and plugins together to create brand new experiences for users.
+
+- [Language Model](https://en.wikipedia.org/wiki/Language_model) - A language model is a probabilistic model of a natural language.
 
 ## Example Applications built ontop of the tech
 - [AutoGPT](https://autogpt.net/what-is-auto-gpt-and-why-do-we-care/)
@@ -189,6 +191,14 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 * [Embedding Models](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/understand-embeddings)
 
 * [Adopt, extend and build Copilot experiences across the Microsoft Cloud](https://learn.microsoft.com/en-us/microsoft-cloud/dev/copilot/overview)
+
+## Language Models
+* [A Beginner’s Guide to Language Models](https://builtin.com/data-science/beginners-guide-language-models)
+* [What is a large language model (LLM)?](https://www.elastic.co/what-is/large-language-models)
+* [A Comprehensive Guide to Build your own Language Model in Python!](https://medium.com/analytics-vidhya/a-comprehensive-guide-to-build-your-own-language-model-in-python-5141b3917d6d)
+* [Introduction to Large Language Models](https://developers.google.com/machine-learning/resources/intro-llms)
+* [Language model](https://en.wikipedia.org/wiki/Language_model)
+* [What are large language models?](https://www.ibm.com/topics/large-language-models)
 
 ## Tutorials, Quickstarts, and Accelerators
 * [Quickstart: Chat with Azure OpenAI models using your own data](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/use-your-data-quickstart?tabs=command-line&pivots=programming-language-studio)
@@ -307,6 +317,8 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 * [Microsoft Azure AI Fundamentals: Get started with artificial intelligence](https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/)
 
 * [Developing plugins with Semantic Kernel and Azure OpenAI](https://learn.microsoft.com/en-us/collections/8q1wf0k385rj7k)
+
+[Introduction to large language models](https://learn.microsoft.com/en-us/training/modules/introduction-large-language-models/)
 
 # Hello World Copilot Examples Usage
 A few code files will include how to run comments inline. 
