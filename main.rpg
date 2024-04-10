@@ -32,3 +32,6 @@ P printf         E
  The  %TRIM  built-in function can be used to remove trailing blanks from a string. The  OPTIONS(*VARSIZE)  keyword can be used in a prototype to allow a procedure to accept a variable-length string as an argument. 
  The  %TRIM  built-in function can be used to remove trailing blanks from a string. The  OPTIONS(*VARSIZE)  keyword can be used in a prototype to allow a procedure to accept a variable-length string as an argument. The  %TRIM  built-in function can be used to remove trailing blanks from a string. The  OPTIONS(*VARSIZE)  keyword can be used in a prototype to allow a procedure to accept a variable-length string as an argument. 
  The  %TRIM  built-in function can be used to remove trailing blanks from a string. The  OPTIONS(*VARSIZE)  keyword can be used in a prototype to allow a procedure to accept a variable-length string as an argument. The  %TRIM  built-in function can be used to remove trailing blanks from a
+
+  * This is my 1st ever RPG code file. 
+  * you can add a comment to your RPG code using the * symbol 
