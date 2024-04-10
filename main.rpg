@@ -1,0 +1,34 @@
+H DFTACTGRP(*NO) ACTGRP('QILE') BNDDIR('QC2LE')
+D HELLO          S             11    INZ('Hello, World!')
+D JOHNNY         S             12    INZ('Hello, Johnny!')
+C                   EVAL      %TRIM(HELLO) = HELLO
+C                   CALLP     printf(%TRIM(HELLO))
+C                   EVAL      %TRIM(JOHNNY) = JOHNNY
+C                   CALLP     printf(%TRIM(JOHNNY))
+C                   EVAL      *INLR = *ON
+P printf         B                   EXTPROC('printf')
+D printf         PI            10I 0
+D  string                    32767    OPTIONS(*VARSIZE) CONST
+P printf         E
+ 
+ The  %TRIM  built-in function is used to remove trailing blanks from the strings. 
+ The  printf  prototype is defined with the  OPTIONS(*VARSIZE)  keyword. This allows the  printf  procedure to accept a variable-length string as an argument. 
+ The  printf  procedure is called twice, once for each string. 
+ The  *INLR  indicator is set on to end the program. 
+ Compile the program with the following command: 
+ CRTBNDC PGM(MYLIB/HELLO) SRCFILE(MYLIB/QCLSRC) SRCMBR(HELLO)
+ 
+ Run the program with the following command: 
+ CALL MYLIB/HELLO
+ 
+ The program will display the following output: 
+ Hello, World!Hello, Johnny!
+ 
+ The program displays the two strings with the trailing blanks removed. 
+ The  %TRIM  built-in function is used to remove trailing blanks from a string. 
+ The  OPTIONS(*VARSIZE)  keyword is used in the prototype to allow the  printf  procedure to accept a variable-length string as an argument. 
+ The  %TRIM  built-in function can be used to remove trailing blanks from a string. 
+ The  OPTIONS(*VARSIZE)  keyword can be used in a prototype to allow a procedure to accept a variable-length string as an argument. 
+ The  %TRIM  built-in function can be used to remove trailing blanks from a string. The  OPTIONS(*VARSIZE)  keyword can be used in a prototype to allow a procedure to accept a variable-length string as an argument. 
+ The  %TRIM  built-in function can be used to remove trailing blanks from a string. The  OPTIONS(*VARSIZE)  keyword can be used in a prototype to allow a procedure to accept a variable-length string as an argument. The  %TRIM  built-in function can be used to remove trailing blanks from a string. The  OPTIONS(*VARSIZE)  keyword can be used in a prototype to allow a procedure to accept a variable-length string as an argument. 
+ The  %TRIM  built-in function can be used to remove trailing blanks from a string. The  OPTIONS(*VARSIZE)  keyword can be used in a prototype to allow a procedure to accept a variable-length string as an argument. The  %TRIM  built-in function can be used to remove trailing blanks from a
