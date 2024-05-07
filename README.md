@@ -15,7 +15,7 @@ AI > ML > DL > GI
 ### Machine Learning
 Predictive models based on data and statistics
 1. Anomaly Detection: Systems that detect unusual patterns or events, enabling pre-emptive action
-2. Computer Visiion: Applications that interpret visual input from cameras, images or videos
+2. Computer Vision: Applications that interpret visual input from cameras, images or videos
 3. Matural Language Processing: Applications that can interpret and draw insights from written or spoken language
 4. Conversational AI: AI agents or bots that can engage in dialogs with human users
 
@@ -104,6 +104,7 @@ Copilot supports the following IDEs:
 * JetBrains
 * NeoVim
 * GitHub Codespaces
+* GitHub Copilot Workspace
 
 ## How does it work?
 GitHub Copilot is powered by OpenAI Codex from https://openai.com/
