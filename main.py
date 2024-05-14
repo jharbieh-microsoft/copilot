@@ -93,4 +93,16 @@ class SumList:
 list = SumList([1,2,3,4,5])
 print(list)
 
+# print a johnny bravo hello world using a function that takes one parameter true or false
+def johnny_bravo(say_hello):
+    if say_hello:
+        print("Hey there, pretty momma!")
+    else:
+        print("Hey there, pretty momma!")
+        
+    johnny_bravo(True)
+    johnny_bravo(False)
+
+
+
 

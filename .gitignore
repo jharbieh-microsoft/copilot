@@ -2,6 +2,7 @@
 *.env
 *.exe
 *.db
+*.sqlite
 
 # ignore the following directories
 node_modules/
@@ -9,6 +10,8 @@ dist/
 build/
 coverage/
 tmp/
+.vs/
+.vscode/
 
 # ignore the following files
 package-lock.json
@@ -17,4 +20,5 @@ yarn-error.log
 npm-debug.log
 
 # ignore the following files in the root directory
+
 
