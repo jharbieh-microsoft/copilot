@@ -103,6 +103,25 @@ def johnny_bravo(say_hello):
     johnny_bravo(True)
     johnny_bravo(False)
 
+# generate a function or a method that takes input from the console and returns it
+def get_input():
+    return input("Enter something: ")
+
+print(get_input())
+
+# create a function that will take a list of numbers and return the sum of the list
+def sum_list(list):
+    total = 0
+    for x in list:
+        total += x
+    return total
+
+print(sum_list([1,2,3,4,5]))
+
+# create a function that is called Product that will take 2 numbers and return the product of the two numbers
+def product(num1, num2):
+    return num1 * num2
+
 
 
 

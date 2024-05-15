@@ -84,4 +84,62 @@ namespace HelloWorld
             Console.WriteLine("Hello World!");
         }
     }
+
+    class Tests
+    {
+        // Generate a method to test the Conference class
+        public void TestConference()
+        {
+            // Create a new conference
+            Conference conference = new Conference("Tech Summit", "New York", "2021-10-10");
+
+            // Print conference details
+            conference.PrintConferenceDetails();
+
+            // Create a new speaker
+            Speaker speaker = new Speaker("John Doe", "English", 30);
+
+            // Add speaker to the conference
+            conference.AddSpeaker(speaker);
+
+            // Remove speaker from the conference
+            conference.RemoveSpeaker(speaker);
+        }
+    }
+
+    class Speakers<T>
+    {
+        private List<T> _speakers = new List<T>();
+
+        public void Add(T speaker)
+        {
+            _speakers.Add(speaker);
+        }
+
+        public void Remove(T speaker)
+        {
+            _speakers.Remove(speaker);
+        }
+    }
+
+    //  Main method
+    class MainClass
+    {
+        static void Main(string[] args)
+        {
+            // Create a new instance of the Tests class
+            Tests tests = new Tests();
+
+            // Run the TestConference method
+
+            tests.TestConference();
+
+            //  Create a new instance of the Speaker class
+            Speaker speaker = new Speaker("John Doe", "English", 30);
+
+        }
+    }
+
+
+
 }

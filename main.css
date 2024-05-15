@@ -41,3 +41,16 @@ h6 {
 p {
     margin: 0 0 10px;
 }
+
+/* add a style for html table elements */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+table, th, td {
+    border: 1px solid black;
+}
+
+
+
+

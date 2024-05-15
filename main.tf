@@ -27,3 +27,13 @@ resource "azurerm_api_management" "apim" {
     type = "SystemAssigned"
   }
 } 
+
+# create an api management product
+resource "azurerm_api_management_product" "product" {
+  name                = "my-product"
+  resource_group_name = "${azurerm_resource_group.rg.name}"
+  api_management_name = "${azurerm_api_management.apim.name}"
+  approval_required   = false
+  subscriptions_limit = 1000
+  state               = "published"
+}
