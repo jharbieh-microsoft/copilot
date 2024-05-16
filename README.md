@@ -216,6 +216,7 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 
 ## OpenAI Demos
 * [OpenAI Codex Live Demo](https://youtu.be/SGUCcjHTmGY)
+* [OpenAI GPT-4o](https://openai.com/index/hello-gpt-4o/)
 
 ## Community Demos
 * [Using Copilot Chat to fix vulnerability discovered by GitHub Advanced Security](https://www.youtube.com/watch?v=ljVTvV9MqFE)
