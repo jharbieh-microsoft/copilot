@@ -29,3 +29,8 @@ Private Function ReverseString(ByVal str As String) As String
     Return reversed
 End Function
 
+'create a button handler for a button named btn_myButton
+Private Sub btn_myButton_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_myButton.Click
+    MsgBox("Button Clicked")
+End Sub
+
