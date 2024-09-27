@@ -50,7 +50,9 @@ Predictive models based on data and statistics
 * Embeddings: (a special format of data representation that can be easily utilized by machine learning models and algorithms)
 
 ## Introduction to Copilot by Copilot
-Copilot is a new AI-powered coding assistant that helps you write code faster and with fewer bugs. 
+Copilot is a new AI-powered coding assistant that helps you write code faster and with fewer bugs. It comes with a plugin or extension and a Chat feature called GitHub Copilot Chat. 
+
+"When using GitHub Copilot Chat, we recommend that you think of yourself as a lead developer who is working with a more junior developer (GitHub Copilot Chat). As the lead developer, it is your responsibility to verify information that is provided by GitHub Copilot Chat and ensure it meets all of your requirements." [Prompting GitHub Copilot Chat to become your personal AI assistant for accessibility] (https://github.blog/developer-skills/github/prompting-github-copilot-chat-to-become-your-personal-ai-assistant-for-accessibility/#foundational-accessibility-prompt)
 
 You can receive suggestions from GitHub Copilot either by starting to write the code you want to use, or by writing a natural language comment describing what you want the code to do.
 
@@ -266,6 +268,13 @@ GitHub Copilot is powered by OpenAI Codex from https://openai.com/
 * [GitHub Copilot Trust Center](https://resources.github.com/copilot-trust-center/)
 
 ## Articles
+
+* [Prompt engineering for GitHub Copilot](https://docs.github.com/en/copilot/using-github-copilot/prompt-engineering-for-github-copilot)
+
+* [How to use GitHub Copilot: Prompts, tips, and use cases](https://github.blog/developer-skills/github/how-to-write-better-prompts-for-github-copilot/)
+
+* [Prompting GitHub Copilot Chat to become your personal AI assistant for accessibility](https://github.blog/developer-skills/github/prompting-github-copilot-chat-to-become-your-personal-ai-assistant-for-accessibility/#foundational-accessibility-prompt)
+
 * [What is GitHub Copilot? An AI Pair Programmer for Everyone. Daniel Diaz, August 9, 2021. Accessed on 4/17/2023](https://www.sitepoint.com/github-copilot-ai-pair-programming/)
 
 * [GitHub’s Copilot goes beyond code completion, adds a chat mode and more. Frederic Lardinois, March 22, 2023. Accessed on 4/17/2023](https://techcrunch.com/2023/03/22/githubs-copilot-goes-beyond-code-completion-adds-a-chat-mode-and-more/)
