@@ -107,6 +107,7 @@ Copilot supports the following IDEs:
 * NeoVim
 * GitHub Codespaces
 * GitHub Copilot Workspace
+* Apple Xcode
 
 ## How does it work?
 GitHub Copilot is powered by OpenAI Codex from https://openai.com/
