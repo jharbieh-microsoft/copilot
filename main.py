@@ -122,6 +122,19 @@ print(sum_list([1,2,3,4,5]))
 def product(num1, num2):
     return num1 * num2
 
+from locust import HttpUser, task, between
+
+class QuickstartUser(HttpUser):
+    wait_time = between(1, 2.5)
+
+    @task
+    def get_homepage(self):
+        with self.client.get("/", catch_response=True) as response:
+            if response.status_code == 200:
+                response.success()
+            else:
+                response.failure(f"Unexpected status code: {response.status_code}")
+
 
 
 
